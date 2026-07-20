@@ -9,16 +9,13 @@
 
   <!-- Skill Badges -->
   <a href="#">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Data%20Structures-FF6F00?style=for-the-badge&logo=datacamp&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
 </div>
@@ -39,15 +36,11 @@
 <table>
   <tr>
     <td align="center" width="25%"><b>Languages</b></td>
-    <td><code>C++</code>, <code>Python</code>, <code>C</code>, <code>SQL</code></td>
-  </tr>
-  <tr>
-    <td align="center" width="25%"><b>Core Concepts</b></td>
-    <td>Data Structures & Algorithms, Object-Oriented Programming (OOPs), DBMS</td>
+    <td><code>C</code></td>
   </tr>
   <tr>
     <td align="center" width="25%"><b>Developer Tools</b></td>
-    <td>Git, GitHub, VS Code, Linux Commands</td>
+    <td><code>Git</code>, <code>GitHub</code></td>
   </tr>
 </table>
 
