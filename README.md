@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Cyber Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F1C2C,100:928DAB&height=200&section=header&text=AKSHAT%20UPADHYAY&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=Computer%20Science%20%26%20Engineering%20Student&descSize=18&descAlignY=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F1C2C,100:928DAB&height=200&section=header&text=AKSHAT%20UPADHYAY&fontSize=44&fontColor=FFFFFF&animation=fadeIn&desc=CSE%20Student%20and%20Developer&descSize=18&descAlignY=70" width="100%" />
 
   <br/>
 
@@ -56,14 +56,14 @@
 ## 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/Akshat-Upadhyay?label=Followers&style=for-the-badge&color=7B1FA2&labelColor=1F1C2C" />
-  <img src="https://img.shields.io/github/stars/Akshat-Upadhyay?label=Total%20Stars&style=for-the-badge&color=7B1FA2&labelColor=1F1C2C" />
+  <img src="https://img.shields.io/github/followers/akkshhttt?label=Followers&style=for-the-badge&color=7B1FA2&labelColor=1F1C2C" />
+  <img src="https://img.shields.io/github/stars/akkshhttt?label=Total%20Stars&style=for-the-badge&color=7B1FA2&labelColor=1F1C2C" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat-Upadhyay&theme=synthwave&hide_border=true" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akkshhttt&theme=synthwave&hide_border=true" width="80%" />
 </div>
 
 ---
