@@ -3,7 +3,7 @@
   <!-- Cyber Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F1C2C,100:928DAB&height=200&section=header&text=AKSHAT%20UPADHYAY&fontSize=44&fontColor=FFFFFF&animation=fadeIn&desc=CSE%20Student%20and%20Developer&descSize=18&descAlignY=70" width="100%" />
 
-  <br/> 
+  <br/>
 
   <p>🚀 <b>Software Engineering Enthusiast</b> | 💻 <b>Problem Solver</b> | ⚡ <b>Building & Scaling Modern Tech</b></p> 
 
