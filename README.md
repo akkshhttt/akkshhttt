@@ -5,7 +5,7 @@
 
   <br/> 
 
-  <p>🚀 <b>Software Engineering Enthusiast</b> | 💻 <b>Problem Solver</b> | ⚡ <b>Building & Scaling Modern Tech</b></p>
+  <p>🚀 <b>Software Engineering Enthusiast</b> | 💻 <b>Problem Solver</b> | ⚡ <b>Building & Scaling Modern Tech</b></p> 
 
   <!-- Skill Badges -->
   <a href="#">
